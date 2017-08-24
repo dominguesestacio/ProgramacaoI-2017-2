@@ -35,16 +35,16 @@ public class PrimeiraClasse {
          String palavra = "Sou uma String";
          
          System.out.println("Helo Word");
-         System.out.println("Esta Variavel é do tipo byte: " + variavelDoTipobyte"");
-         System.out.println("Esta Variavel é do tipo short: " + variavelDoTiposhort"");
-         System.out.println("Esta Variavel é do tipo int: " + variavelDoTipoint"");      
-         System.out.println("Esta Variavel é do tipo long: " + variavelDoTipolong"");
-         System.out.println("Esta Variavel é do tipo float: " + variavelDoTipofloat"");
-         System.out.println("Esta Variavel é do tipo double: " + variavelDoTipodouble"");
-         System.out.println("Esta Variavel é do tipo doubleD: " + variavelDoTipodoubleD"");
-         System.out.println("Esta Variavel é do tipo char: " + variavelDoTipochar"");
-         System.out.println("Esta Variavel é do tipo boolean: " + variavelDoTipoboolean"");
-         System.out.println("Esta Variavel é do tipo String: " + variavelDoTipoString"");
+         System.out.println("Esta Variavel é do tipo byte: " + variavelDoTipobyte);
+         System.out.println("Esta Variavel é do tipo short: " + variavelDoTiposhort);
+         System.out.println("Esta Variavel é do tipo int: " + variavelDoTipoint);      
+         System.out.println("Esta Variavel é do tipo long: " + variavelDoTipolong);
+         System.out.println("Esta Variavel é do tipo float: " + variavelDoTipofloat);
+         System.out.println("Esta Variavel é do tipo double: " + variavelDoTipodouble);
+         System.out.println("Esta Variavel é do tipo doubleD: " + variavelDoTipodoubleD);
+         System.out.println("Esta Variavel é do tipo char: " + variavelDoTipoCaracter);
+         System.out.println("Esta Variavel é do tipo boolean: " + variavelDoTipoboolean);
+         System.out.println("Esta Variavel é do tipo String: " + palavra);
         
     }
     
