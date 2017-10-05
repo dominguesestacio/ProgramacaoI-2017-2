@@ -21,7 +21,8 @@ public class Exercicio11 {
         num = entrada.nextInt();
         if (num < 10) {
             System.out.println("numero Menor do que 10");
-        } else if(num == 10)
+        }
+        else if(num == 10)
         System.out.println("Numero Igual a 10");
 
     }
