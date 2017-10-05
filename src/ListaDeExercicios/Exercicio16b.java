@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author aluno
  */
-public class Exercicio16 {
+public class Exercicio16b {
     public static void main(String[] args) {
         float nota= 0;
         int quantidade= 0;
