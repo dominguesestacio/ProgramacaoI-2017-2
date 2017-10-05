@@ -48,3 +48,10 @@ public class Exercicio5 {
     }
     
 }
+//         RESPOSTA
+//        
+//        a= -1
+//        b= 0
+//        c= 9
+//        d= 4
+//        e= 0

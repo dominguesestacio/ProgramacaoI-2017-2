@@ -19,13 +19,13 @@ public class TesteConcatenacao {
         //segundo exemplo//-------------------------------------
         //int d = 2;
         //System.out.println("" + d + 3);
-        
-       //terceiro exemplo//-------------------------------------
-       int b= 3;
-       int c = 7;
-       int d = 50;
-        
-       System.out.println( a+(b + c)+d );
+
+        //terceiro exemplo//-------------------------------------
+        int b = 3;
+        int c = 7;
+        int d = 50;
+
+        System.out.println(a + (b + c) + d);
     }
-    
+
 }

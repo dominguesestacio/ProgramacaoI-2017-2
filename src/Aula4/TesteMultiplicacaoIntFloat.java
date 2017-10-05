@@ -10,6 +10,7 @@ package Aula4;
  * @author aluno
  */
 public class TesteMultiplicacaoIntFloat {
+
     public static void main(String[] args) {
         int x = 2;
         float y = 3.1f;
@@ -17,12 +18,10 @@ public class TesteMultiplicacaoIntFloat {
         float z;
 
         //Organizar código ALT+SHIFT+F
-        
         z = x * y;
         //sout CTRL+SPACE
         System.out.println(z);
 
     }
 
-    
 }
