@@ -12,23 +12,24 @@ import java.util.Scanner;
  * @author André
  */
 public class Exercicio13 {
+
     public static void main(String[] args) {
-        
-        Scanner input = new Scanner (System.in);
+
+        Scanner input = new Scanner(System.in);
         double macas = 0.30;
-        int quantMacas = 0;
+        double quantMacas;
         double multiplicacao;
 
         System.out.print("Digite a quantidade de macas: ");
         quantMacas = input.nextInt();
 
-        if (quantMacas < 12) 
-            { multiplicacao = quantMacas * macas; }
-        else
-            { multiplicacao = quantMacas * 0.25; }
+        if (quantMacas < 12) {
+            multiplicacao = quantMacas * macas;
+        } else {
+            multiplicacao = quantMacas * 0.25;
+        }
 
-        System.out.print("o valor a ser pago é: R$ " + multiplicacao);
-        System.out.println();
+        System.out.print("O Valor a Ser Pago é R$: " + multiplicacao);
+        
     }
 }
-

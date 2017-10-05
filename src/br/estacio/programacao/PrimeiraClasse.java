@@ -22,7 +22,6 @@ public class PrimeiraClasse {
         long variavelDoTipoLong = 1000;
         byte variavelDoTipobyte = 10;
         short variavelDoTiposhort = 10;
-        
 
         //variavel do tipo flutuante / real
         float variavelDoTipoFloat = 134.2345f;

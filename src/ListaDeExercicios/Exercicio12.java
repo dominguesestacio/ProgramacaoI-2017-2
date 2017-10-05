@@ -32,8 +32,9 @@ public class Exercicio12 {
                     System.out.println("Triangulo Equilatero");
                 } else if ((lado1 == lado2) || (lado1 == lado3)) {
                     System.out.println("Triangulo Isosceles");
-                } else
+                } else {
                     System.out.println("Triângulo Escaleno");
+                }
             } else {
                 System.out.println("Não é um triangulo!");
             }

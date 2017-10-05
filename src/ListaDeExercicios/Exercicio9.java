@@ -10,6 +10,7 @@ package ListaDeExercicios;
  * @author André
  */
 public class Exercicio9 {
+
     public static void main(String[] args) {
         int c = 1;
         c = 0;
@@ -21,5 +22,5 @@ public class Exercicio9 {
         System.out.println(++c);// c=0 +0 é igual a 0
         System.out.println(c);  // c=o e imprime    o
     }
-    
+
 }

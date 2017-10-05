@@ -1,6 +1,5 @@
 package ListaDeExercicios;
 
-
 import java.util.Scanner;
 
 /*
@@ -8,7 +7,6 @@ import java.util.Scanner;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
  *
  * @author André
@@ -17,8 +15,8 @@ public class Exercicio16a {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        
         int numConta;
+        
         double saldo, debito, credito, saldoAtual;
             System.out.print("Insira o numero da conta: ");
         numConta = input.nextInt();

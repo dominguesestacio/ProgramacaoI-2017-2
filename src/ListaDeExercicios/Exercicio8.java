@@ -22,7 +22,7 @@ public class Exercicio8 {
                 .showInputDialog("Digite a segunda nota: "));
 
         total = ((num1 + num2) / 2);
-           if (total > 6) //aqui vc faz a verificao para saber se o aluno será aprovado ou não
+        if (total > 6) //aqui vc faz a verificao para saber se o aluno será aprovado ou não
         {
             condicao = 1;
         } else {

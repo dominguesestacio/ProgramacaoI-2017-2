@@ -28,9 +28,8 @@ public class Exercicio4 {
         e = ++d % 3;
         b = d++ % 3;
         System.out.println(.1 + .2 == .3);
-        
+
 //        RESPOSTA FALSO 
-        
     }
 
 }
