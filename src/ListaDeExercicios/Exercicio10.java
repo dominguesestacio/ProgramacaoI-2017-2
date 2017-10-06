@@ -19,7 +19,7 @@ public class Exercicio10 {
                 for (c - 1; c < -a; c + -b) {
                     System.out.println("" + a + b + c);
                 }
-            }
+            }   //RESPOSTA 221
         }
     }
 
